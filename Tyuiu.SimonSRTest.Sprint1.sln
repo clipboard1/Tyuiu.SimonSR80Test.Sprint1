@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{D3C2E920-BBC3-4134-B76B-96D300FF9814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SimonSR80Tests.Sprint1.Task0.V10.Lib", "Tyuiu.SimonSR80Test.Sprint1.Task0.V10.Lib\Tyuiu.SimonSR80Tests.Sprint1.Task0.V10.Lib.csproj", "{D6A3E5D9-830D-45CD-BD02-A9D355AAD613}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SimonSR80Test.Sprint1.Task0.V10.Lib", "Tyuiu.SimonSR80Test.Sprint1.Task0.V10.Lib\Tyuiu.SimonSR80Test.Sprint1.Task0.V10.Lib.csproj", "{D6A3E5D9-830D-45CD-BD02-A9D355AAD613}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
